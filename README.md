@@ -17,6 +17,7 @@ html doubt
 -------------------------------------------------------------------------------------------------------
 
 css doubt
+1.resume6
 -------------------------------------------------------------------------------------------------------
 
 javascript doubt
@@ -35,6 +36,7 @@ output should be like <kshitij> name="kshitij" img=image path</kshitij>
 (3).what is css and create internal,inlined external css.
 (4).write 10 java script events in index .html pge fore ex;onclick;ondoublecick...........
 (5).create a function inside onclick event so function name should be MyFirtstFunction which should need to have one alert one confurmation
+6.coding standerds
 -----------------------------------------------------------------------------------------------------------
 Learning
 (1).what are the pillars of oops?
